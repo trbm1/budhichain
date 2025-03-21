@@ -31,13 +31,13 @@ Test for responsiveness using libraries like Svelte Material UI or Tailwind CSS.
 Host the app on Vercel, Firebase, or a custom server. Manage the DeSo node separately if hosting a full node.
 
 # Roadmap
-Use TanStack Query for DeSo blockchain calls to leverage caching and background fetching.
+* Use TanStack Query for DeSo blockchain calls to leverage caching and background fetching.
 
-Use Svelte Stores for UI and user state management.
+* Use Svelte Stores for UI and user state management.
 
-Build Budibase components with external NPM support to integrate DeSo.
+* Build Budibase components with external NPM support to integrate DeSo.
 
-Optimize for mobile & PWA by leveraging caching and responsive design.
+* Optimize for mobile & PWA by leveraging caching and responsive design.
 
 # Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
